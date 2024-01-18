@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-
-Sitemap: 
+#DaumWebMasterTool:3edc8edda2c48c18c11405630fce6058a4704e3317b9f228b791b58a80a7a147:/lJDYpNEQ78RnQXN/HqAlA==
+Sitemap: https://reviewradar.github.io/sitemap.xml
